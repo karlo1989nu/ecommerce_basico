@@ -1,63 +1,63 @@
-# Ecommerce Básico
+# Basic Ecommerce
 
-Este es un proyecto de ejemplo para una tienda en línea (ecommerce) básica. Permite a los usuarios navegar productos, agregarlos al carrito y realizar compras simples.
+This is a sample project for a basic online store (ecommerce). It allows users to browse products, add them to the cart, and make simple purchases.
 
-## Características
+## Features
 
-- Listado de productos
-- Detalle de producto
-- Carrito de compras
-- Proceso de checkout básico
-- Gestión de usuarios (registro e inicio de sesión)
-- Panel de administración para productos y pedidos
+- Product listing
+- Product detail
+- Shopping cart
+- Basic checkout process
+- User management (registration and login)
+- Admin panel for products and orders
 
-## Tecnologías utilizadas
+## Technologies Used
 
-- Backend: (especifica aquí, por ejemplo, Node.js, Django, Laravel, etc.)
-- Frontend: (especifica aquí, por ejemplo, React, Vue, HTML/CSS, etc.)
-- Base de datos: (especifica aquí, por ejemplo, MySQL, MongoDB, SQLite, etc.)
+- Backend: (specify here, e.g., Node.js, Django, Laravel, etc.)
+- Frontend: (specify here, e.g., React, Vue, HTML/CSS, etc.)
+- Database: (specify here, e.g., MySQL, MongoDB, SQLite, etc.)
 
-## Instalación
+## Installation
 
-1. Clona el repositorio:
+1. Clone the repository:
 
    ```
-   git clone https://github.com/tu_usuario/ecommerce_basico.git
+   git clone https://github.com/your_user/ecommerce_basico.git
    cd ecommerce_basico
    ```
 
-2. Instala las dependencias:
+2. Install dependencies:
 
    ```
-   # Dependiendo del stack, por ejemplo:
+   # Depending on the stack, for example:
    npm install
-   # o
+   # or
    pip install -r requirements.txt
    ```
 
-3. Configura las variables de entorno si es necesario.
+3. Configure environment variables if necessary.
 
-4. Inicia el servidor:
+4. Start the server:
 
    ```
-   # Por ejemplo:
+   # For example:
    npm start
-   # o
+   # or
    python manage.py runserver
    ```
 
-5. Accede a la aplicación en `http://localhost:3000` o el puerto configurado.
+5. Access the application at `http://localhost:3000` or the configured port.
 
-## Uso
+## Usage
 
-- Regístrate o inicia sesión.
-- Explora los productos y agrégalos al carrito.
-- Realiza el checkout para completar la compra.
+- Register or log in.
+- Browse products and add them to the cart.
+- Proceed to checkout to complete your purchase.
 
-## Contribución
+## Contribution
 
-¡Las contribuciones son bienvenidas! Por favor, abre un issue o haz un pull request.
+Contributions are welcome! Please open an issue or submit a pull request.
 
-## Licencia
+## License
 
-Este proyecto está bajo la licencia MIT.
+This project is licensed under the MIT
