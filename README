@@ -26,7 +26,6 @@ This project is a basic ecommerce application that allows managing products and 
 1. Clone this repository:
    ```bash
    git clone https://github.com/karlo1989nu/ecommerce_basico.git
-   ```
 ````
 
 2. Open the `index.html` file in your browser.
@@ -34,17 +33,17 @@ This project is a basic ecommerce application that allows managing products and 
 
 ## Project Structure
 
-- `index.html` — Main page.
-- `js/` — JavaScript code with ecommerce logic.
-- `css/` — CSS styles for the interface.
+* `index.html` — Main page.
+* `js/` — JavaScript code with ecommerce logic.
+* `css/` — CSS styles for the interface.
 
 ## Future Improvements
 
-- Add a functional shopping cart.
-- Integrate local storage or a database.
-- Improve visual design and user experience.
-- Implement product filters and search.
-- Add validations and error handling.
+* Add a functional shopping cart.
+* Integrate local storage or a database.
+* Improve visual design and user experience.
+* Implement product filters and search.
+* Add validations and error handling.
 
 ## Author
 
@@ -52,4 +51,4 @@ Karlo [karlo1989nu](https://github.com/karlo1989nu)
 
 ```
 
-```
+
