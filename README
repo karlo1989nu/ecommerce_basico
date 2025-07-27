@@ -26,6 +26,7 @@ This project is a basic ecommerce application that allows managing products and 
 
    ```bash
    git clone https://github.com/karlo1989nu/ecommerce_basico.git
+
    ```
 
 2. Open the `index.html` file in your browser.
